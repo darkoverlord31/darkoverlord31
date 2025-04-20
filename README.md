@@ -86,19 +86,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkoverlord31&theme=react-dark&width=900&height=200&hide_border=true" alt="Contribution Graph" />
 </p>
 
-
----
-
-## 🏆 Top Repositories
-
-| Repository                                    | Description                              |
-| --------------------------------------------- | ---------------------------------------- |
-| [MotoCo Training Portal](https://github.com/darkoverlord31/motoco-training-portal) | React + Firebase COMP302 project         |
-| [Daily Idol](https://github.com/darkoverlord31/daily-idol)                         | Pink‑and‑white K‑pop idol webapp         |
-| [Unique-lu-Website](https://github.com/darkoverlord31/unique-lu-website)           | Personal portfolio site                  |
-| [MyFirst2DGame](https://github.com/darkoverlord31/MyFirst2DGame)                   | Java 2D game demo                        |
-| [ShopInventoryDisplay](https://github.com/darkoverlord31/shopinventorydisplay)     | Inventory management UI                  |
-
 ---
 
 
