@@ -63,6 +63,41 @@
 ---
 
 > Now remember: “PHP is dead”  
+---
+
+## 📊 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darkoverlord31&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Stats
+
+<p align="center">
+  <!-- Current streak & longest streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkoverlord31&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Contribution calendar graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darkoverlord31&theme=react-dark&width=900&height=200&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Top Repositories
+
+| Repository                                    | Description                              |
+| --------------------------------------------- | ---------------------------------------- |
+| [MotoCo Training Portal](https://github.com/darkoverlord31/motoco-training-portal) | React + Firebase COMP302 project         |
+| [Daily Idol](https://github.com/darkoverlord31/daily-idol)                         | Pink‑and‑white K‑pop idol webapp         |
+| [Unique-lu-Website](https://github.com/darkoverlord31/unique-lu-website)           | Personal portfolio site                  |
+| [MyFirst2DGame](https://github.com/darkoverlord31/MyFirst2DGame)                   | Java 2D game demo                        |
+| [ShopInventoryDisplay](https://github.com/darkoverlord31/shopinventorydisplay)     | Inventory management UI                  |
+
+---
 
 
 
