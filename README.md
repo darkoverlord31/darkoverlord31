@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/236x/c6/7b/de/c67bde53c0efb27a07a98a149bb154e5.jpg" alt="Chaewon Supremacy" width="200"/>
-</p>
+![Chaewon Supremacy Banner](https://www.allkpop.com/upload/2023/10/content/252241/web_data/allkpop_1698288323_20231025-kimchaewon.jpg)
 
 #  ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＤＯＭＡΙＮ, 
 #  ＴＲＥＡＤ ＬＩＧＨＴＬＹ...
