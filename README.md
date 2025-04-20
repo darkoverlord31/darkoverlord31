@@ -2,7 +2,8 @@
   <img src="https://i.pinimg.com/236x/c6/7b/de/c67bde53c0efb27a07a98a149bb154e5.jpg" alt="Chaewon Supremacy" width="200"/>
 </p>
 
-#  ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＤＯＭＡΙＮ, ＴＲＥＡＤ ＬＩＧＨＴＬＹ...
+#  ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＤＯＭＡΙＮ, 
+#  ＴＲＥＡＤ ＬＩＧＨＴＬＹ...
 
 > 3rd‑year Computer Science & Software Engineering undergrad @ BIUST  
 > Speedcuber, amateur comic creator, and hopeless K‑pop stan....oh yeah and programmer too
