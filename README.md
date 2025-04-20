@@ -11,8 +11,8 @@
 
 ## 🧑‍💻 About Me
 - 🔭 Currently crafting **Daily Idol**: a pink‑and‑white K‑pop idol photo webapp  
-- 🌱 Always learning Distributed Systems, React, and Firebase wizardry  
-- 🎨 Working on my first comic, because why not add monsters to my world?  
+- 🌱 Always learning App Development, Systems, and Backend wizardry  
+- 🎨 Working on my first comic, because why stick to creating programs?  
 - 💖 **Chaewon Supremacy** — forever my bias and queen of perfection  
 
 ---
