@@ -82,8 +82,10 @@
 
 <p align="center">
   <!-- Contribution calendar graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darkoverlord31&theme=react-dark&width=900&height=200&hide_border=true" alt="Contribution Graph" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkoverlord31&theme=react-dark&width=900&height=200&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
