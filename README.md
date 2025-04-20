@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Replace the URL below with your favorite Chaewon image link -->
-  <img src="[https://your-image-host.com/chaewon.jpg](https://imgur.com/chaewon-2nd-anniversary-SSaClW5)" alt="Chaewon Supremacy" width="200"/>
+  <img src="https://i.pinimg.com/236x/c6/7b/de/c67bde53c0efb27a07a98a149bb154e5.jpg" alt="Chaewon Supremacy" width="200"/>
 </p>
 
 # Hi, this is Oratile Chilliboy also known as the one and only DarkOverlord31 👋
