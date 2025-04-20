@@ -1,4 +1,71 @@
-## Hi there 👋
+<p align="center">
+  <!-- Replace the URL below with your favorite Chaewon image link -->
+  <img src="[https://your-image-host.com/chaewon.jpg](https://imgur.com/chaewon-2nd-anniversary-SSaClW5)" alt="Chaewon Supremacy" width="200"/>
+</p>
+
+# Hi, this is Oratile Chilliboy also known as the one and only DarkOverlord31 👋
+
+> 3rd‑year Computer Science & Software Engineering undergrad @ BIUST  
+> Speedcuber, amateur comic creator, and hopeless K‑pop stan....oh yeah and programmer too
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Currently crafting **Daily Idol**: a pink‑and‑white K‑pop idol photo webapp  
+- 🌱 Always learning Distributed Systems, React, and Firebase wizardry  
+- 🎨 Working on my first comic, because why not add monsters to my world?  
+- 💖 **Chaewon Supremacy** — forever my bias and queen of perfection  
+
+---
+
+## 🔧 Tech & Tools
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <br/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkoverlord31&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📊 Top Languages by Usage
+
+| Language      | Percentage |
+| ------------- | ---------- |
+| JavaScript    | 20%        |
+| Python        | 15%        |
+| Java          | 20%        |
+| C             | 18%        |
+| C++           | 17%        |
+| Dart          | 5%         |
+| SQL           | 3%         |
+| HTML          | 2%         |
+
+---
+
+> Now remember: “PHP is dead”  
+
+
 
 <!--
 **darkoverlord31/darkoverlord31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
