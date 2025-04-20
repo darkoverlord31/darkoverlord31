@@ -62,7 +62,7 @@
 
 ---
 
-> Now remember: “PHP is dead”  
+> Quote of 2025: “PHP is dead”  
 ---
 
 ## 📊 GitHub Achievements
