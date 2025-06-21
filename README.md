@@ -86,7 +86,7 @@
 </p>
 
 # THANK YOU!
-<img src="https://i.pining.com/originals/b3/ed/1b/b3ed1b2481d4f5a78ac2d24ec008e870.gif" alt="JENNIE" width="100%">
+<img src="https://i.pinimg.com/originals/b3/ed/1b/b3ed1b2481d4f5a78ac2d24ec008e870.gif" alt="JENNIE" width="100%">
 ---
 
 
