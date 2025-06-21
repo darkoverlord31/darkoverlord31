@@ -85,7 +85,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkoverlord31&theme=react-dark&width=900&height=200&hide_border=true" alt="Contribution Graph" />
 </p>
 
-# THANK YOU!
+# ARE YOU INTERESTED IN COLLABORATING? LET'S TALK!
 <img src="https://i.pinimg.com/originals/b3/ed/1b/b3ed1b2481d4f5a78ac2d24ec008e870.gif" alt="JENNIE" width="100%">
 ---
 
