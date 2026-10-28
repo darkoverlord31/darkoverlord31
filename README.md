@@ -3,16 +3,16 @@
 #  ＷＥＬＣＯＭＥ ＴＯ ＭＹ ＤＯＭＡΙＮ, 
 #  ＴＲＥＡＤ ＬＩＧＨＴＬＹ...
 
-> 3rd‑year Computer Science & Software Engineering undergrad @ BIUST  
-> Speedcuber, amateur comic creator, and hopeless K‑pop stan....oh yeah and programmer too
+> Computer Science & Software Engineering graduate @ BIUST  
+> Speedcuber, amateur comic creator, music producer...oh and programmer too I guess
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently crafting **Daily Idol**: a pink‑and‑white K‑pop idol photo webapp  
+- 🔭 Currently re-learning coding!
 - 🌱 Always learning App Development, Systems, and Backend wizardry  
-- 🎨 Working on my first comic, because why stick to creating programs?  
-- 💖 **Chaewon Supremacy** — unwavering ult bias and queen of perfection  
+- 🎨 Working on merging art and programming.  
+- 💖 **Chaewon Supremacy** — unwavering ult bias and queen. 
 
 ---
 
