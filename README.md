@@ -64,13 +64,6 @@
 > Quote of 2025: “PHP is dead”  
 ---
 
-## 📊 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkoverlord31&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📈 Contribution Stats
 
